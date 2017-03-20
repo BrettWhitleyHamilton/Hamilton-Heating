@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Arvo;
+    src: url("../fonts/Arvo-Regular.ttf") format("truetype");
+}
+#HHlogo{margin-left: 2%;
+	margin-top:2%;
+width:100%;}
+#navBar{
+	margin-top: 2%;
+	background-color:#0c497a;
+}
+.links{
+	color: #d4d6d8;
+}
+#top{background-color: #ffffff}
+.nav.navbar-nav li a {
+   color: #d4d6d8;
+ }
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+ background-color: #156aaf;
+}
+.navbar-nav{
+	 position: absolute;
+    left: 8%;
+}

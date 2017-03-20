@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Arvo;
+    src: url("../fonts/Arvo-Regular.ttf") format("truetype");
+}
+
+#main{margin-top: 3%;}
+#desc{font-size: 16pt;}
+#van{
+	margin-top: 5%;
+	width: 100%;
+	border-radius: 15%;
+clip: rect(0px, 160px, 170px, 60px);
+}
+#worcester{width: 80%;min-height: 50%;}
+#gassafe{width:55%;}
+body{background:#d4d6d8;
+font-family: Arvo;
+color: #0c497a;}
