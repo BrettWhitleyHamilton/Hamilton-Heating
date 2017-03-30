@@ -8,7 +8,7 @@
         margin-left: 2%;
     }}
 
-#main{margin-top: 3%; margin:0px;background-color: white; border-radius: 2%;padding:30px; }
+#main{margin-top: 3%; margin:0px;background-color: white; border-radius: 2%;padding:30px; padding-bottom: 3%;}
 .row{margin-right: 0px;}
 #desc{font-size: 16pt;}
 #van{
@@ -17,9 +17,7 @@
 	border-radius: 15%;
 clip: rect(0px, 160px, 170px, 60px);
 }
-#worcester{width: 80%;min-height: 50%;}
-#gassafe{width:55%;}
+#front{margin:0px; width:100%; padding: 0px;}
 body{background:#d4d6d8;
 font-family: Arvo;
 color: #0c497a;}
-#front{margin:0px; width:100%; padding: 0px;}

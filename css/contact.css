@@ -1,1 +1,12 @@
 .size{width:100%;}
+#contactForm{
+margin-bottom: 2%;
+}
+body{background:white;
+font-family: Arvo;
+color: #0c497a;}
+
+#footRow{
+	margin-top: 8%;
+	background: #d4d6d8;
+}

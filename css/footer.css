@@ -1,0 +1,25 @@
+
+#worcester{width: 80%;min-height: 50%;}
+#gassafe{width:55%;}
+
+#map{height:200px;
+width: 100%;
+display: inline-block;
+padding:0px;}
+#contactRow{
+	margin-top: 2%;
+	margin-left: 0px;
+
+}
+#mapCol{
+	
+	margin: 0px;
+}
+#heatingLogos{
+margin-top: 2%;
+margin-bottom: 2%;
+
+}
+#contactCon{
+	margin-top: 2%;
+}
